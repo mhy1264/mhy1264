@@ -1,5 +1,12 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhy1264)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhy1264&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhy1264&layout=compact)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mhy1264&repo=yzu-jccpp)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mhy1264&repo=yzu-wycpp)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mhy1264&repo=yzu-bjpy)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mhy1264&repo=backend-core3.1)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **mhy1264/mhy1264** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
