@@ -1,22 +1,11 @@
 ### Hi there 👋
+#### Intros
+1.  Ming Huan Yang -> Student in YZU CSE
+2.  I’m currently learning C# python C++ javaScript
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhy1264&show_icons=true&theme=dark)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mhy1264&repo=yzu-jccpp)](https://github.com/mhy1264/yzu-jccpp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mhy1264&repo=yzu-wycpp)](https://github.com/mhy1264/yzu-wycpp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mhy1264&repo=yzu-bjpy)](https://github.com/mhy1264/yzu-bjpy)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mhy1264&repo=backend-core3.1)](https://github.com/mhy1264/backend-core3.1)
-
-<!--
-**mhy1264/mhy1264** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
