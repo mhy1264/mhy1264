@@ -8,4 +8,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mhy1264&repo=yzu-jccpp)](https://github.com/mhy1264/yzu-jccpp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mhy1264&repo=yzu-wycpp)](https://github.com/mhy1264/yzu-wycpp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mhy1264&repo=yzu-bjpy)](https://github.com/mhy1264/yzu-bjpy)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mhy1264&repo=backend-core3.1)](https://github.com/mhy1264/backend-core3.1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mhy1264&repo=yzu_course_remaining_selector)]([https://github.com/mhy1264/backend-core3.1](https://github.com/mhy1264/yzu_course_remaining_selector))
