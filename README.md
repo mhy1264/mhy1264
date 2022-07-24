@@ -5,7 +5,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhy1264&show_icons=true&theme=dark)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mhy1264&repo=yzu-jccpp)](https://github.com/mhy1264/yzu-jccpp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mhy1264&repo=yzu-wycpp)](https://github.com/mhy1264/yzu-wycpp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mhy1264&repo=yzu-bjpy)](https://github.com/mhy1264/yzu-bjpy)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mhy1264&repo=yzu_course_remaining_selector)](https://github.com/mhy1264/yzu_course_remaining_selector)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mhy1264&repo=automatic-mvdis-SignUp)](https://github.com/mhy1264/automatic-mvdis-SignUp)
